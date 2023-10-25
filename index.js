@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const prompts = require('./lib/prompts.js')
 const pickShape = require('./lib/shapes/pickShape.js')
-const svgImages = require('./images/image.svg')
+const svgImages = "./images/image.svg"
 
 // Function to make the SVG File and add it to the folder.
 function makeSVG(response) {

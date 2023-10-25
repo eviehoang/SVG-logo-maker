@@ -1,13 +1,14 @@
 
 <div align="center">
   
-    ![]()
+  ![](./images/Challenge-10.gif)
 
   <h3 align="center">SVG LOGO MAKER</h3>
 
   <p align="center">
   This SVG logo maker is a command-line application built using JavaScript, Inquirer, and Jest. It empowers users to create custom SVG logos effortlessly. Whether you need a logo for your website, business, or personal project, this tool simplifies the design process.
   </p>
+  
 </div>
 
 
